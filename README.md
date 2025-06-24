@@ -120,9 +120,9 @@ Compliance issues were flagged, especially in overpaid claims with no denial cod
 ---
 
 ## **Methodology**
-* SQL used for data cleaning, joining, transformation
-* Statistical analysis (mean, correlation r-values, variance decomposition) for wait time and claims
-* Tableau dashboards built for city/provider/insurance segmentation
+* Python used for data cleaning, joining, transformation
+* Statistical analysis (mean, variance decomposition) for wait time and claims
+* power bi dashboards built for city/provider/insurance segmentation
 * Conditional logic for risk flagging (e.g., cancellation % > 50, wait time > 90 mins)
 
 ---
