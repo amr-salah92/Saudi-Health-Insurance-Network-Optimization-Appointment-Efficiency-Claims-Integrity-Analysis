@@ -19,6 +19,7 @@
 * [Future Work](#future-work)
 * [Technical Details](#technical-details)
 * [Assumptions and Caveats](#assumptions-and-caveats)
+  
 ---
 
 ## **Project Name**
