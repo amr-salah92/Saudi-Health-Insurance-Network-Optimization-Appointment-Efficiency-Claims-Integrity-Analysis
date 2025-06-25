@@ -23,7 +23,7 @@
 ---
 
 ## **Project Name**
-**Saudi National Health Insurance – Healthcare Appointment & Claims Efficiency Analysis**
+**Saudi Health Insurance Network Optimization: Appointment Efficiency & Claims Integrity Analysis**
 
 ---
 
