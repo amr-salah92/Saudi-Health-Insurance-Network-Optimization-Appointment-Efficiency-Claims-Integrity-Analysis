@@ -64,7 +64,8 @@ As the lead data analyst, my goals were to:
 
 ### **Category 3: Claims Denials & Financial Exposure**
 #### Key Insights:
-* **SAR 75.3M paid in error**; **SAR 55.9M paid on claims without denial codes**
+- **SAR 75.85M paid erroneously** (30.4% of total payments)
+- **SAR 19.69M denied without reason codes** (compliance risk)
 * Top denial reasons:
   * Pre-existing conditions: 41.8%
   * Non-covered services: 29.6%
