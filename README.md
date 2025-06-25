@@ -2,7 +2,7 @@
 * [Project Name](#project-name)
 * [Project Background](#project-background)
 * [Project Goals](#project-goals)
-* [Insights and Recommendations](#insights-and-recommendations)
+* [Insights](#Insights)
   * [Category 1: Appointment Outcomes & Wait Times](#category-1-appointment-outcomes--wait-times)
   * [Category 2: Provider Efficiency & Operational Risk](#category-2-provider-efficiency--operational-risk)
   * [Category 3: Claims Denials & Financial Exposure](#category-3-claims-denials--financial-exposure)
@@ -43,7 +43,7 @@ As the lead data analyst, my goals were to:
 
 ---
 
-## **Insights and Recommendations**
+## **Insights**
 
 ### **Category 1: Appointment Outcomes & Wait Times**
 #### Key Insights:
@@ -52,11 +52,6 @@ As the lead data analyst, my goals were to:
 * Follow-ups & consultations had the **highest no-show and cancellation wait times**
 * Emergency visits had **lowest wait times and highest completion efficiency**
 
-#### Recommendations:
-* Implement SMS reminders + proactive rescheduling for appointments exceeding 67 minutes
-* Introduce 15-min buffer slots for follow-ups and consultations
-* Replicate emergency department triage speed in other appointment types
-
 ---
 
 ### **Category 2: Provider Efficiency & Operational Risk**
@@ -64,11 +59,6 @@ As the lead data analyst, my goals were to:
 * 23,938 unique providers, **65% handled only one appointment**
 * Over 1,100 providers averaged the **maximum 120-min wait**
 * Provider PRV007848 had a 75% cancellation rate, **handling complex surgeries inappropriately at imaging centers**
-
-#### Recommendations:
-* Reassign providers with 15-min avg wait to consultation-heavy departments
-* Suspend providers with >50% cancellation rate pending retraining
-* Consolidate appointments from 15,000+ single-appointment providers to improve patient continuity
 
 ---
 
@@ -81,11 +71,6 @@ As the lead data analyst, my goals were to:
   * Insufficient documentation: 18.9%
 * Submission delays range 0–29 days, disrupting financial forecasting
 
-#### Recommendations:
-* Launch 90-day overpayment recovery & voluntary repayment initiative
-* Enforce mandatory denial reason codes before approval
-* Penalize claim submissions >7 days post-visit with 5% reimbursement cut
-
 ---
 
 ### **Category 4: Insurance Plan & Regional Performance**
@@ -94,11 +79,6 @@ As the lead data analyst, my goals were to:
 * **Dammam** showed the **worst surgical wait times (67.8 mins)**
 * **Khobar** had high overall waits despite mid-volume patient load
 * **SA Cares** consistently delivered highest coverage efficiency
-
-#### Recommendations:
-* Guarantee ≤60-min wait for Bupa Premium via contract renegotiation
-* Expand Taif’s low-wait surgeon scheduling model to Dammam
-* Launch \$25 credit reactivation program targeting 7,507 inactive patients
 
 ---
 
