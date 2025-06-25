@@ -15,7 +15,7 @@
 * [Documenting Issues](#documenting-issues)
 * [Executive Summary](#executive-summary)
 * [Insights Deep Dive](#insights-deep-dive)
-* [Recommendations](#recommendations)
+* [Recommendations](#Recommendations)
 * [Future Work](#future-work)
 * [Technical Details](#technical-details)
 * [Assumptions and Caveats](#assumptions-and-caveats)
