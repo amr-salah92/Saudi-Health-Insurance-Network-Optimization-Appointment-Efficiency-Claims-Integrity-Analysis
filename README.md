@@ -245,11 +245,49 @@ Appointment bottlenecks and claim overpayments are costing SNHI millions. The bi
 
 ## **Recommendations**
 **For Claims, Operations, and Network Management Teams:**  
-1. Redirect surgeries to facilities with <66-min avg wait  
-2. Freeze payouts to providers with unexplained overpayments > SAR 100,000  
-3. Reassign efficient providers to high-wait appointment types  
-4. Enforce contractual penalties for >90-min provider wait times  
-5. Create fast-track lanes for Bupa Premium members  
+
+**I. Appointment Efficiency & Patient Experience**  
+*(Target: Operations & Patient Services)*
+1. **Implement dynamic scheduling buffers**  
+   - Add 15-min buffer slots for follow-ups/consultations (avg 68.83 min wait)  
+   - Replicate emergency department triage model for all high-wait services  
+   - Automate SMS reminders + rescheduling offers for appointments >67 min wait  
+
+2. **Optimize regional capacity**  
+   - Deploy Taif’s surgical scheduling model to Dammam (67.8 min wait)  
+   - Redistribute Khobar’s mid-volume load to underutilized facilities  
+   - Create Bupa Premium fast-track lanes (guarantee ≤60-min wait via contract clauses)  
+
+**II. Provider Network Management**  
+*(Target: Network Development & Compliance)*  
+3. **Enforce provider performance standards**  
+   - Suspend providers with >50% cancellation rate (e.g., PRV007848) for specialty retraining  
+   - Consolidate 15,000+ single-appointment providers into continuity-of-care teams  
+   - Apply 5% reimbursement penalties for consistent >90-min wait times  
+
+4. **Align specialties with facilities**  
+   - Block surgical bookings at imaging centers (violation hotspot)  
+   - Reassign 15-min-wait providers to consultation-heavy departments  
+   - Launch monthly provider-city matching audits  
+
+**III. Claims Integrity & Financial Controls**  
+*(Target: Finance & Claims Administration)*  
+5. **Recover overpayments & tighten approvals**  
+   - Launch 90-day SAR 75.3M overpayment recovery initiative  
+   - Mandate denial reason codes before any payment (prevent SAR 55.9M unsubstantiated payments)  
+   - Enforce 5% reimbursement cuts for claims submitted >7 days post-visit  
+
+6. **Prevent future leakage**  
+   - Implement automated pre-authorization checks for pre-existing conditions (41.8% denials)  
+   - Install real-time claim validation against coverage policies (block 29.6% non-service denials)  
+   - Integrate document-integrity AI to reduce 18.9% documentation denials  
+
+**IV. Patient Retention & Growth**  
+*(Target: Marketing & Member Services)*  
+7. **Reactivate high-value relationships**  
+   - Offer $25 credit for 7,507 inactive patients  
+   - Adopt SA Cares’ coverage efficiency model across all plans  
+   - Launch no-show prediction models (using wait time + insurance history)  
 
 ---
 
