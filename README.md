@@ -222,6 +222,8 @@ Appointment bottlenecks and claim overpayments are costing SNHI millions. The bi
 * **Bupa Premium**: Higher wait times than lower-tier plans  
 * **Khobar**: Worst regional performance despite mid-level patient volume  
 
+![Screenshot_25-6-2025_201421_chatgpt com](https://github.com/user-attachments/assets/21ae17a0-7faf-435d-a3a0-3efb61606003)
+
 ---
 
 ## **Recommendations**
