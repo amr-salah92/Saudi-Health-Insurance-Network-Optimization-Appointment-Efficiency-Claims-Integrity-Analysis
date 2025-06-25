@@ -284,12 +284,7 @@ Appointment bottlenecks and claim overpayments are costing SNHI millions. The bi
 ## **Technical Details**
 **Tools Used:**  
 * **Python (Pandas, Seaborn, NumPy)**: Statistical analysis  
-* **Tableau**: Dynamic dashboards and visualizations  
-
-**Links:**  
-* SQL queries for data cleaning: [link]  
-* SQL queries for business questions: [link]  
-* Tableau dashboard: [link]  
+* **Power bi**: Dynamic dashboards and visualizations  
 
 ---
 
