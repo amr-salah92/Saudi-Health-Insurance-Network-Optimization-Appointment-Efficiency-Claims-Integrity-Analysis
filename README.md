@@ -205,7 +205,9 @@ Appointment bottlenecks and claim overpayments are costing SNHI millions. The bi
 ### **Category 1: Appointment Outcomes & Wait Times**
 * **10% of appointments (5,034) resulted in no-shows** with avg wait of 67.99 mins  
 * **Follow-up appointments**: Highest no-show wait time (68.83 mins)  
-* Emergency care had shortest wait (66.97 mins), validating triage effectiveness  
+* Emergency care had shortest wait (66.97 mins), validating triage effectiveness
+* Completed appointments average 67.4 min wait, while cancelled/no-show appointments average 57.7–58.9 min, indicating inefficiency in retaining patients despite shorter waits.
+* Follow-ups/consultations show highest cancellation risk (linked to 67+ min waits).
 
 ### **Category 2: Provider Efficiency & Operational Risk**
 * 65.5% of providers had only **1 completed appointment**  
