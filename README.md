@@ -217,7 +217,8 @@ Appointment bottlenecks and claim overpayments are costing SNHI millions. The bi
 ### **Category 3: Claims Denials & Financial Exposure**
 * SAR 75.3M paid erroneously; 98.5% coverage rate shows **excessive leniency**  
 * 41.8% denials due to **pre-existing conditions** = weak eligibility checks  
-* Claims without denial reasons received **SAR 55.9M in payments**  
+* Claims without denial reasons received **SAR 55.9M in payments**
+* Top denial reasons: "Policy signed" (highest denial rate at 40.00%) , "Insufficient documents" (30.04% denials) & Non-clinical reasons (e.g., documentation, policy issues) drive 74.25% of denials.
 
 ### **Category 4: Insurance Plan & Regional Performance**
 * **Dammam**: Worst surgical wait (67.8 mins) vs **Taif** best (66.4 mins)  
