@@ -212,18 +212,23 @@ Appointment bottlenecks and claim overpayments are costing SNHI millions. The bi
 ### **Category 2: Provider Efficiency & Operational Risk**
 * 65.5% of providers had only **1 completed appointment**  
 * **PRV007848**: 75% cancellation rate due to specialty violations  
-* Over 1,100 providers had **120-min avg waits**, driving system-wide attrition  
+* Over 1,100 providers had **120-min avg waits**, driving system-wide attrition
+* Overall cancellation rate 14.99%, peaking at 15.44% for high-wait service types (e.g., follow-ups)
+* Cancellations strongly correlated with 67+ min delays across all types.  
 
 ### **Category 3: Claims Denials & Financial Exposure**
 * SAR 75.3M paid erroneously; 98.5% coverage rate shows **excessive leniency**  
 * 41.8% denials due to **pre-existing conditions** = weak eligibility checks  
 * Claims without denial reasons received **SAR 55.9M in payments**
-* Top denial reasons: "Policy signed" (highest denial rate at 40.00%) , "Insufficient documents" (30.04% denials) & Non-clinical reasons (e.g., documentation, policy issues) drive 74.25% of denials.
+* Top denial reasons: "Policy signed" (highest denial rate at 40.00%) & "Insufficient documents" (30.04% denials)
+* Non-clinical reasons (e.g., documentation, policy issues) drive 74.25% of denials.
 
 ### **Category 4: Insurance Plan & Regional Performance**
 * **Dammam**: Worst surgical wait (67.8 mins) vs **Taif** best (66.4 mins)  
 * **Bupa Premium**: Higher wait times than lower-tier plans  
-* **Khobar**: Worst regional performance despite mid-level patient volume  
+* **Khobar**: Worst regional performance despite mid-level patient volume
+* Dammam/Riyadh: Highest cancellation rates (16.66%) despite mid-range waits (68.62 min).
+* Smaller cities: Consistent 15% cancellation rate with marginally lower waits. 
 
 
 ![Screenshot_25-7-2025_183717_chat deepseek com](https://github.com/user-attachments/assets/2ef2833c-78c7-4f03-8f11-6b710071e373)
