@@ -231,7 +231,7 @@ Appointment bottlenecks and claim overpayments are costing SNHI millions. The bi
 * Smaller cities: Consistent 15% cancellation rate with marginally lower waits. 
 
 
-![Screenshot_25-7-2025_183717_chat deepseek com](https://github.com/user-attachments/assets/2ef2833c-78c7-4f03-8f11-6b710071e373)
+![Screenshot_26-7-2025_114612_chatgpt com](https://github.com/user-attachments/assets/0f4c4bbc-70bc-40f3-b999-b1634f524e14)
 
 ---
 
