@@ -230,8 +230,7 @@ Appointment bottlenecks and claim overpayments are costing SNHI millions. The bi
 * Dammam/Riyadh: Highest cancellation rates (16.66%) despite mid-range waits (68.62 min).
 * Smaller cities: Consistent 15% cancellation rate with marginally lower waits. 
 
-
-![Screenshot_26-7-2025_114612_chatgpt com](https://github.com/user-attachments/assets/0f4c4bbc-70bc-40f3-b999-b1634f524e14)
+![Screenshot_26-7-2025_115436_chat deepseek com](https://github.com/user-attachments/assets/be41a1a5-4c82-435a-9f27-1baca5bd8ed0)
 
 ---
 
